@@ -1,4 +1,4 @@
-import 'package:MealsApp/model/dummy_data.dart';
+import 'file:///D:/Projects/Flutter/MealsApp/lib/dummy_data.dart';
 import 'package:flutter/material.dart';
 
 class CategoryMealsScreen extends StatelessWidget {
